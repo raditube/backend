@@ -1,0 +1,21 @@
+{
+  "name": "raditube-backend",
+  "version": "1.0.0",
+  "description": "New RadiTube backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "axios-cookiejar-support": "^2.0.2",
+    "dayjs": "^1.10.7",
+    "he": "^1.2.0",
+    "lodash": "^4.17.21",
+    "random-useragent": "^0.5.0",
+    "striptags": "^3.2.0",
+    "tough-cookie": "^4.0.0"
+  }
+}
