@@ -1,9 +1,7 @@
 # RadiTube backend
-
 ---
 
 ## Description
-
 ---
 
 This repo will contain the improved RadiTube backend. Most of this is build around a Serverless architecture, but functions can be isolated pretty easily.
